@@ -22,6 +22,7 @@ I'm Inés, a junior Data Engineer with a background in web development. I recent
 ## Projects
 
 - [Energy analysis](https://github.com/inesposes/energy-climate-insights) – Master's final project for NTT Data, where we analyzed the correlation between energy generation and the Spanish climate, focusing on increasing renewable energy production.
+- [NYC Taxi Analysis](https://github.com/inesposes/nyc-taxi-analytics) – Analyzed a 4-year dataset of New York City taxi trips using Databricks, generating KPIs and visualizations to identify trends and operational insights. Completed in just two days during my student internship at NTT Data.
 
 ---
 
